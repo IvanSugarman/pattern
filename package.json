@@ -1,0 +1,25 @@
+{
+  "name": "pattern",
+  "version": "1.0.0",
+  "description": "parttern demo",
+  "main": "src/index.ts",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc",
+    "build:w": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanSugarman/pattern.git"
+  },
+  "author": "muffin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanSugarman/pattern/issues"
+  },
+  "homepage": "https://github.com/IvanSugarman/pattern#readme",
+  "devDependencies": {
+    "typescript": "^4.1.5"
+  }
+}
